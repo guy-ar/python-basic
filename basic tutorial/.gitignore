@@ -1,0 +1,40 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments (including conda)
+.env/
+.venv/
+env/
+venv/
+conda-meta/
+*.conda
+*.env
+
+# Conda environment files (optional to ignore if you don't want to track them)
+*.yml
+*.yaml
+
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Editors
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and outputs
+*.log
+*.out
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+*.manifest
+*.spec
