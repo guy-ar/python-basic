@@ -1,0 +1,4 @@
+Just check for counting words
+that first fucntion reill return he number of words
+the second function will return for each word
+how many times it appeared in the file
